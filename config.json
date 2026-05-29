@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedonnect",
+        "uuid": 790096,
+        "checksum": "gqbehi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
